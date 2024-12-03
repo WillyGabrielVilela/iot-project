@@ -6,7 +6,7 @@ PROJECT<br>
 
 https://wokwi.com/projects/415662541805124609 <br>
 
-Alunos:
+Alunos: <br>
 Maria Clara Macena <br>
 Marcos Gomes <br>
 Pedro Eloi <br>
